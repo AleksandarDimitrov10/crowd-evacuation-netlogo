@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/project settings
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*~
+
+# NetLogo autosave/backup files
+*.nlogo~
+*.nlogo.bak
+
+# R analysis outputs/caches, if you add R scripts later
+.Rhistory
+.RData
+.Rproj.user/
+
+# Generated result files, if they become large
+*.log
