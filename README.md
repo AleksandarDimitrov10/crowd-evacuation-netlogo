@@ -1,5 +1,8 @@
 # Crowd Evacuation Simulation in NetLogo
 
+<img width="533" height="748" alt="Screenshot 2026-04-25 183839" src="https://github.com/user-attachments/assets/0565e041-d856-4255-aceb-80e36867989b" />
+
+
 This project is an agent-based simulation of emergency crowd evacuation in enclosed spaces. It was developed in NetLogo for the Multi-Agent Systems course at Tilburg University.
 
 The model investigates how factors such as exit availability, exit capacity, agent energy, crowd density, and leader presence influence evacuation efficiency and safety.
@@ -85,6 +88,11 @@ The results showed that evacuation success improves when:
 - A leader can guide agents toward exits
 
 The best-case scenario achieved the highest escape percentages, while the worst-case scenario produced the lowest evacuation success.
+
+
+<img width="590" height="565" alt="image" src="https://github.com/user-attachments/assets/f8e8211c-4df7-4070-bbfb-f0cc33d0891d" />
+
+
 
 ## Project Files
 
